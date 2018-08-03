@@ -15,8 +15,8 @@ public class Test1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
-zcascdasds        // TODO code application logic here
+int n1=0;
+    // TODO code application logic here
     }
     
 }
